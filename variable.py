@@ -1,4 +1,4 @@
-info= "info@datawithbaraa.com"
-Support= "support@datawithbaraa.com"
-site= "www.datawithbaraa.com"
+info= "info@data.com"
+Support= "support@data.com"
+site= "www.data.com"
 print("\n\t",info,"\n\t", Support,"\n\t", site )
