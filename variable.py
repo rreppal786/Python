@@ -1,4 +1,4 @@
-info= "info@data.com"
+Info= "info@data.com"
 Support= "support@data.com"
-site= "www.data.com"
-print("\n\t",info,"\n\t", Support,"\n\t", site )
+Site= "www.data.com"
+print("\n\t",Info,"\n\t", Support,"\n\t", Site )
